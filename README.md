@@ -8,6 +8,6 @@ I am a software engineer and medical doctor passionate about leveraging technolo
 
 📚 I am continuously expanding my knowledge and staying up-to-date with the latest advancements in the healthcare and software engineering domains. I am always eager to explore new technologies, frameworks, and methodologies to deliver high-quality solutions that exceed expectations.
 
-- 💻 Skills: C#, .NET, Java, SpringBoot, Python, JavaScript, HTML, CSS, and Tailwind.
+- 💻 Skills: C#, .NET, Java, SpringBoot, Python, Django, JavaScript, HTML, CSS, Bootstrap and Tailwind.
 
 📫 I am open to exciting opportunities and collaborations, so feel free to reach out! Let's shape the future of healthcare together.
