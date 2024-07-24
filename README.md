@@ -8,5 +8,3 @@
 
 - I am open to opportunities and collaborations, feel free to reach out!
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimaihueze&layout=compact&hide=css,HTML)
-
