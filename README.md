@@ -2,7 +2,7 @@
 
 - I am Chima Ihueze and I am excited to have you here.
 
-- I am a software engineer and medical doctor passionate about building healthcare solutions. 
+- I am a software engineer and medical doctor passionate about building software that solves business problems. 
 
 - 💻 Technologies: C#, .NET, Python, Django, Java, SpringBoot, Database Design, SQL.
 
